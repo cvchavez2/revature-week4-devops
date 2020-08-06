@@ -10,6 +10,10 @@ jobs:
   package:
   deploy:
 
+on:
+  push:
+    - master
+
 # person:
 #   firstname: 'carlos'
 #   lastname: 100 #comment
