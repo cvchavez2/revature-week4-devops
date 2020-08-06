@@ -1,6 +1,6 @@
 jobs:
   build:
-    image: ubuntu-20.04 # dotnet comes in this tooling machine ? image is a prepared server with everything installed
+    runs-on: ubuntu-20.04 # dotnet comes in this tooling machine ? image is a prepared server with everything installed
     steps:
       - uses: actions/checkout@v2.3.1 # github/marketplace/actions
       - run: dotnet build
@@ -8,7 +8,7 @@ jobs:
   # test:
   # analyze:
   # package:
-  # deploy:
+  # deploy: empty jobs
 
 name: build
 
