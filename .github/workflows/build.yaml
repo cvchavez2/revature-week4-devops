@@ -11,10 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2.3.1
       - run: dotnet test -p:CollectCoverage=true
-      
-  # analyze:
+
+  analyze:
+    needs: [build, test] # tell actions to run analyze until build and test builds
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@2.3.1
+      - run: dotnet tool install --global dotnet-sonarscanner
+      - run: | # added the pipe / we have to add build because sonarcloud cant read plain c# but it can read the intermidiate language because it has metadata
+          dotnet sonnarscanner begin -o:'cvchavez2' -k:'cvchavez2_revature-week4-devops' -d:sonar.login='4b8082d1cbc0691c821359beb0b306299eaec9f'
+          dotnet build
+          dotnet test -p:CollectCoverage=true
+          dotnet sonnarscanner end -d:sonar.login='4b8082d1cbc0691c821359beb0b306299eaec9f'
   # package:
-  # deploy: empty jobs
+  # deploy: <- jobs
 
 name: build
 
