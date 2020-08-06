@@ -10,9 +10,14 @@ jobs:
   package:
   deploy:
 
-on:
-  push:
-    - master
+name: build
+
+on: push
+
+# on:
+#   push:
+#     branches:
+#       - master
 
 # person:
 #   firstname: 'carlos'
