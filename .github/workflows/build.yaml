@@ -21,7 +21,7 @@ jobs:
       - run: | # added the pipe (multiline value) / we have to add build because sonarcloud cant read plain c# but it can read the intermidiate language because it has metadata
           dotnet sonarscanner begin -o:'cvchavez2' -k:'cvchavez2_revature-week4-devops' -d:sonar.login='853311e530df2a0ffeee81fdbe7feaa93459c632' -d:sonar.host.url="https://sonarcloud.io"
           dotnet build
-          dotnet test -p:CollectCoverage=true
+          dotnet test -p:CollectCoverage=true -p:CoverletOutputFormat=opencover --logger trx
           dotnet sonarscanner end -d:sonar.login='853311e530df2a0ffeee81fdbe7feaa93459c632'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
