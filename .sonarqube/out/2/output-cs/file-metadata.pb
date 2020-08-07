@@ -1,0 +1,9 @@
+³
+§/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.csutf-8µ
+©/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.csutf-8µ
+©/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.csutf-8·
+«/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.csutf-8É
+½/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.csutf-8µ
+©/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.csutf-8³
+§/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.csutf-8»
+¯/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/obj/Debug/netcoreapp3.1/DevopsCI.Client.RazorTargetAssemblyInfo.csutf-8

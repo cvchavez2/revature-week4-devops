@@ -1,0 +1,7 @@
+é
+DevopsCI.Client.Startupobject
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)RDevopsCI.Client.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)¸
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)fDevopsCI.Client.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)÷
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)…DevopsCI.Client.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)>
+Configuration.get)DevopsCI.Client.Startup.Configuration.get>
+Configuration.set)DevopsCI.Client.Startup.Configuration.set
