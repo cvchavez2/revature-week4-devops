@@ -1,0 +1,102 @@
+
+2DevopsCI.Client.Controllers.HomeController.Error()ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs" "(""6*ô
+0ÔÏ
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$ $(n+
+%0%DevopsCI.Client.Models.ErrorViewModel"%DevopsCI.Client.Models.ErrorViewModelé
+ã
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$ $(*
+
+%1void"6DevopsCI.Client.Models.ErrorViewModel.ErrorViewModel()*-
++
+%0%DevopsCI.Client.Models.ErrorViewModelà
+Ö
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$9 $(I!
+%2System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
+System.Diagnostics.Activity*
+1
+2*˝
+2Ú
+Ô
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$K $(M
+%3string""System.Diagnostics.Activity.Id.get*#
+!
+%2System.Diagnostics.Activity*
+1*
+1*
+3
+4*”
+3Æ
+´
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$Q $(\+
+%7%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseì
+ê
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$Q $(l
+%8string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
++
+%7%Microsoft.AspNetCore.Http.HttpContextø
+º
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$Q $(l
+%6string"__id*
+
+%8stringø
+º
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$Q $(l
+%4string"__id*
+
+%6string*
+4*á
+4õ
+ò
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$- $(l
+
+%9void"3DevopsCI.Client.Models.ErrorViewModel.RequestId.set*-
++
+%0%DevopsCI.Client.Models.ErrorViewModel*
+
+%4stringπ
+∂
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$ $(o
+%10void""devopsci.client/views/shared/error*
+
+%11*-
++
+%0%DevopsCI.Client.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"ß
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs$ $(p
+
+%10void*≥
+5"≠
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs% %(	
+implicit return*ª
+6∞
+≠
+ï
+ä/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Controllers/HomeController.cs" "("
+%12"__entrypoint*
+0B.,
+*DevopsCI.Client.Controllers.HomeController

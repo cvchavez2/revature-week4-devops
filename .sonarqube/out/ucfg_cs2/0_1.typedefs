@@ -1,0 +1,7 @@
+‡
+*DevopsCI.Client.Controllers.HomeController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectO
+HomeController();DevopsCI.Client.Controllers.HomeController.HomeController()ð
+`HomeController(Microsoft.Extensions.Logging.ILogger<DevopsCI.Client.Controllers.HomeController>)‹DevopsCI.Client.Controllers.HomeController.HomeController(Microsoft.Extensions.Logging.ILogger<DevopsCI.Client.Controllers.HomeController>)=
+Index()2DevopsCI.Client.Controllers.HomeController.Index()A
+	Privacy()4DevopsCI.Client.Controllers.HomeController.Privacy()=
+Error()2DevopsCI.Client.Controllers.HomeController.Error()
