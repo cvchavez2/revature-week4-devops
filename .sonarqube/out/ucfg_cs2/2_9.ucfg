@@ -1,18 +1,0 @@
-
-fDevopsCI.Client.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Å
-w/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Startup.cs (%"0*Ö
-0˙
-˜
-Å
-w/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Startup.cs (.:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"úMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViews(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*ü
-1"ô
-Å
-w/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/DevopsCI.Client/Startup.cs (	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-DevopsCI.Client.Startup

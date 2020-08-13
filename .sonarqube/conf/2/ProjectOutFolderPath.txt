@@ -1,1 +1,0 @@
-/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week4/DevOps/.sonarqube/out/2
